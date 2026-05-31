@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecncrypt",
+        "uuid": 13490758,
+        "checksum": "wsyoab"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
